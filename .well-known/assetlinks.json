@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.jeremiaszsvec12_cyber.twa",
+      "sha256_cert_fingerprints": [
+        "CB:C9:68:1C:66:06:DA:AA:0E:B8:59:9B:5A:39:D0:7E:EE:A9:2B:0B:66:3B:14:B9:24:62:A4:C1:14:45:24:D1"
+      ]
+    }
+  }
+]
