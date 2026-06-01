@@ -1,6 +1,6 @@
 {
   "name": "Corazón de Élite",
-  "short_name": "C. de Élite",
+  "short_name": "Corazón de élite",
   "description": "PWA local-first de entrenamiento, objetivos, máximos y planificación.",
   "start_url": "./index.html",
   "display": "standalone",
